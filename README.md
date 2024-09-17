@@ -25,10 +25,10 @@ Files
 Installation
 
 1. Clone the repository:
-  git clone < https://athavullashaik.github.io/To-Do-App/>
+  git clone < [https://athavullashaik.github.io/To-Do-App/](https://github.com/AthavullaShaik/To-Do-App)>
 
 2. Navigate to the project directory:
-  cd < https://athavullashaik.github.io/To-Do-App/>
+  cd < [https://athavullashaik.github.io/To-Do-App/](https://athavullashaik.github.io/To-Do-App/)>
 
 3. Open index.html in a web browser.
 
